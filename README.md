@@ -2,8 +2,8 @@
 
 **Materia:** Lógica de Programación
 **Profesor:** Gamalier Reyes del Carmen
-**Estudiante:** [Tu nombre completo]
-**Matrícula:** [Tu matrícula]
+**Estudiante:** Yadier Rivera De Oleo
+**Matrícula:** 2026-0109
 
 ---
 
