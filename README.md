@@ -1,8 +1,11 @@
 # Actividad 2 - Cálculo del Impuesto Sobre la Renta (ISR)
 
 **Materia:** Lógica de Programación
+
 **Profesor:** Gamalier Reyes del Carmen
+
 **Estudiante:** Yadier Rivera De Oleo
+
 **Matrícula:** 2026-0109
 
 ---
